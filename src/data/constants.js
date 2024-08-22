@@ -18,7 +18,7 @@ export const Bio = {
     "Explore the work of Azaz, a passionate developer with a strong foundation in Computer Science and a commitment to creating efficient, scalable software solutions. With expertise in full-stack development and software engineering, skilled in both front-end and back-end technologies, ensuring seamless user experiences and robust backend systems..",
   github: "https://github.com/Azaz176",
   resume:
-    "/",
+    "https://drive.google.com/file/d/1wis_TAcRIECBa2ane3_RtSpdobXgqzr0/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/azaz-ali-8541a5241/",
   twitter: "https://x.com/Azaz_Dev",
   github: "https://github.com/Azaz176",
